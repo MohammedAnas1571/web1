@@ -1,0 +1,258 @@
+body{
+    margin: 0;
+    padding:0;
+}
+.navigation{
+    width: auto;
+    height: auto;
+    background-color: #F9DB7A;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.logo{
+    width: auto;
+    min-height: auto;
+    margin-left: 130px;
+    padding: 11px;
+}
+.logo img{
+    width: 143px;}
+.menu {
+    width: auto;
+    height: auto;
+    padding: 36px;
+    position: absolute;
+    left: 686px;
+}
+ .menu li{
+    display: inline;
+    margin-right: 30px;
+} 
+.menu li a{
+
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    color:#4A4151;
+    text-decoration: none;
+    letter-spacing: 1px;
+    
+}
+.change:hover{
+ color: black;
+}
+#value{
+    color: black;
+    
+   }
+.banner{
+    width: auto;
+    height: auto;
+    background-color: #F9DB7A;
+    text-align: center;
+
+}
+img{
+    width: 563px;
+    
+}
+.word{
+    width: auto;
+    height: auto;
+    font-size: 40px;
+    font-family: "Josefin Sans", sans-serif;
+    color: white;
+    position: absolute;
+    top: 412px;
+    right: 660px;
+    font-weight: bold;
+
+}
+.letter{
+        width: auto;
+        height: auto;
+        font-size: 122.94px;
+        font-family: "Josefin Sans", sans-serif;
+        color: white;
+        position: absolute;
+        top: 465px;
+        right:  309px;
+        font-weight: bold;
+}
+
+.contentarea{
+    width: auto;
+    height: auto;
+    background-color: white ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-image{
+text-align: center;
+width: auto;
+height: auto;
+}
+
+
+.about{
+    width: auto;
+    height: auto;
+    background-color: white ;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.text{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 28px;
+     color: #2f2e2e;
+    font-weight: bold;
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-right: 80px;
+    margin-top: 120px;
+   
+   
+}
+
+.text-two{
+
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    color: #2f2e2e;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 5px;
+    line-height: 28px;
+}
+
+.text-three{
+
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    font-family: "Josefin Sans", sans-serif;
+    color: #2f2e2e;
+   text-align: justify;
+    font-weight: normal;
+    line-height: 28px;
+}
+.newsimage{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+    text-align: center;
+    padding:20px;
+}
+.newsimage img{
+    width: 824px;
+}
+.subimage{
+width: auto;
+height: auto;
+object-fit: cover;
+text-align: center;}
+.subimage img{
+    width: 954px;
+
+}
+
+.text-four{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 35px;
+     color: #2f2e2e;
+    font-weight: bold;
+    text-align: center;
+    width: auto;
+    height: auto;
+    margin-left: 100px;
+    margin-top: 230px;
+    
+   
+   
+}
+
+.text-five{
+
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 29px;
+    color: #2f2e2e;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 20px;
+    line-height: 35px;
+}
+
+.text-six{
+
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 20px;
+    
+    color: #2f2e2e;
+   text-align: right;
+    font-weight: normal;
+    line-height: 50px;
+}
+.last{
+    background-color:#2F2E2E;
+    width: auto;
+    height: auto;
+    padding-top: 35px;
+    padding-bottom: 23px;}
+.last-two{
+    width: auto;
+    height: auto;
+    font-family:"Josefin Sans", sans-serif; 
+    font-size: 28px;
+    margin-left: 107px;
+    color: white;
+}.media{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}.last-three{
+    width: auto;
+    height: auto;
+    margin-left: 68px;
+    margin-top: 25px;
+}
+
+.last-three li{
+    width: auto;
+    height:auto ;
+    display: inline;
+    margin-right:25px;
+}.last-three li a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-family: "Josefin Sans", sans-serif; 
+ 
+}.images-social {
+    width: auto;
+    height: auto;
+        margin-right: 159px;
+    margin-top: 22px;
+}
+.images-social img{
+    width: 170px;
+}.last-four{
+    width: auto;
+    height: 2px;
+  
+    margin-right: 160px;
+    margin-left: 106px;
+    margin-top: 22px;
+    background-color: white;
+    
+}.last-five{
+    margin-top: 22px;
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 16px;
+    margin-left: 104px;}
+   
